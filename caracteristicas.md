@@ -22,7 +22,7 @@ autos,sus comiensos, que auto me puedo comprar!!!
 </td>
 <td>
 <a href="compras.html ">
-<h3><font color="red"><i>¿que coche me puedo compar?</i></font></h3></a>
+<h3><font color="red"><i>Â¿que coche me puedo compar?</i></font></h3></a>
 </td>
 <td>
 <a href="videos.html">
@@ -37,7 +37,7 @@ autos,sus comiensos, que auto me puedo comprar!!!
 <center><img src="marcas.png" width="100%" height="35%" ></center>
 <h1>variantes</h1>
 <p>
-<h4>Existen distintos tipos de automóviles deportivos, que se distinguen por sus características:</h4></p>
+<h4>Existen distintos tipos de automÃ³viles deportivos, que se distinguen por sus caracterÃ­sticas:</h4></p>
 <center>
 <table border="1">
 <tr>
@@ -56,7 +56,7 @@ autos,sus comiensos, que auto me puedo comprar!!!
 Deportivo <br>o Roadster
 </td>
 <td>
-Prestaciones superiores a la media. Su tamaño suele ser cercano a<br>automóviles de los segmentos B, C y D, aunque son más bajos que un<br> turismo. Roadster es la denominación de un deportivo descapotable de<br> dos plazas. También existen deportivos con techo semi-descapotable, que<br> son denominados targa, los cuales disponen de un panel desmontable.
+Prestaciones superiores a la media. Su tamaÃ±o suele ser cercano a<br>automÃ³viles de los segmentos B, C y D, aunque son mÃ¡s bajos que un<br> turismo. Roadster es la denominaciÃ³n de un deportivo descapotable de<br> dos plazas. TambiÃ©n existen deportivos con techo semi-descapotable, que<br> son denominados targa, los cuales disponen de un panel desmontable.
 </td>
 <td>
 <center><img src="mas.png"><br><center><font color="blue"></center><i><b>Mazda MX-5</i></b></font></center></br>
@@ -67,7 +67,7 @@ Prestaciones superiores a la media. Su tamaño suele ser cercano a<br>automóviles
 Deportivo de<br>altas <br>prestaciones
 </td>
 <td>
-Prestaciones superiores a las de un roadster, es más liviano que un<br> turismo de potencia y tamaño similar.
+Prestaciones superiores a las de un roadster, es mÃ¡s liviano que un<br> turismo de potencia y tamaÃ±o similar.
 </td>
 <td>
 <center><img src="r8.png" width="600" height="200"></center><br><center><font color="blue"><i><b>audi-R8</i></b></font></center></br>
@@ -78,7 +78,7 @@ Prestaciones superiores a las de un roadster, es más liviano que un<br> turismo 
 Superdeportivo
 </td>
 <td>
-Prestaciones aún mayores debido a motores con características similares<br> a los de carreras y al empleo de materiales exóticos en la construcción del<br> chasis, la carrocería y los componentes del vehículo. Su precio es<br> consecuentemente mucho más alto que el de otros deportivos.
+Prestaciones aÃºn mayores debido a motores con caracterÃ­sticas similares<br> a los de carreras y al empleo de materiales exÃ³ticos en la construcciÃ³n del<br> chasis, la carrocerÃ­a y los componentes del vehÃ­culo. Su precio es<br> consecuentemente mucho mÃ¡s alto que el de otros deportivos.
 </td>
 <td>
 <center><img src="bugati.png" width="500" height="200"></center><br><center><font color="blue"><i><b>bugatti-Veyron</i></b></font></center></br>
@@ -89,7 +89,7 @@ Prestaciones aún mayores debido a motores con características similares<br> a lo
 Gran turismo	
 </td>
 <td>
-Es más grande y pesado que otros deportivos, lo cual los favorece en la<br> conducción deportiva en autopista. Suelen tener dos plazas delanteras y<br> dos traseras más pequeñas (2+2).
+Es mÃ¡s grande y pesado que otros deportivos, lo cual los favorece en la<br> conducciÃ³n deportiva en autopista. Suelen tener dos plazas delanteras y<br> dos traseras mÃ¡s pequeÃ±as (2+2).
 </td>
 <td>
 <center><img src="aston.png" width="400" height="200"></center><br><center><font color="blue"><i><b>aston martin DB9</i></b></font></center></br>
@@ -98,9 +98,9 @@ Es más grande y pesado que otros deportivos, lo cual los favorece en la<br> cond
 </table>
 </center>
 <h4>
-Otros automóviles pueden tener características deportivas, pero sin que se utilice propiamente el término automóviles deportivos para describirlos. En este caso, suelen ser versiones modificadas de automóviles no deportivos.
+Otros automÃ³viles pueden tener caracterÃ­sticas deportivas, pero sin que se utilice propiamente el tÃ©rmino automÃ³viles deportivos para describirlos. En este caso, suelen ser versiones modificadas de automÃ³viles no deportivos.
 <p>
-Las versiones deportivas derivadas de automóviles de los segmentos A, B o C con carrocería hatchback se suelen denominar deportivos pequeños o también se los designa como compactos deportivos. A su vez, un derivado de un sedán se denomina sedán deportivo.
+Las versiones deportivas derivadas de automÃ³viles de los segmentos A, B o C con carrocerÃ­a hatchback se suelen denominar deportivos pequeÃ±os o tambiÃ©n se los designa como compactos deportivos. A su vez, un derivado de un sedÃ¡n se denomina sedÃ¡n deportivo.
 </h4>
 </body>
 </html>
